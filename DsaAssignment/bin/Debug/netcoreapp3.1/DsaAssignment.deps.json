@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DsaAssignment/1.0.0": {
+        "dependencies": {
+          "HashTable": "1.0.0",
+          "Linkedlist": "1.0.0",
+          "PriorityQueue": "1.0.0",
+          "Queue": "1.0.0",
+          "Stack": "1.0.0"
+        },
+        "runtime": {
+          "DsaAssignment.dll": {}
+        }
+      },
+      "HashTable/1.0.0": {
+        "runtime": {
+          "HashTable.dll": {}
+        }
+      },
+      "Linkedlist/1.0.0": {
+        "runtime": {
+          "Linkedlist.dll": {}
+        }
+      },
+      "PriorityQueue/1.0.0": {
+        "runtime": {
+          "PriorityQueue.dll": {}
+        }
+      },
+      "Queue/1.0.0": {
+        "runtime": {
+          "Queue.dll": {}
+        }
+      },
+      "Stack/1.0.0": {
+        "runtime": {
+          "Stack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DsaAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HashTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Linkedlist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PriorityQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

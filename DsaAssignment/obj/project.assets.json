@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HashTable/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HashTable.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HashTable.dll": {}
+        }
+      },
+      "Linkedlist/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Linkedlist.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Linkedlist.dll": {}
+        }
+      },
+      "PriorityQueue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PriorityQueue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PriorityQueue.dll": {}
+        }
+      },
+      "Queue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Queue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Queue.dll": {}
+        }
+      },
+      "Stack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Stack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashTable/1.0.0": {
+      "type": "project",
+      "path": "../HashTable/HashTable.csproj",
+      "msbuildProject": "../HashTable/HashTable.csproj"
+    },
+    "Linkedlist/1.0.0": {
+      "type": "project",
+      "path": "../Linkedlist/Linkedlist.csproj",
+      "msbuildProject": "../Linkedlist/Linkedlist.csproj"
+    },
+    "PriorityQueue/1.0.0": {
+      "type": "project",
+      "path": "../PriorityQueue/PriorityQueue.csproj",
+      "msbuildProject": "../PriorityQueue/PriorityQueue.csproj"
+    },
+    "Queue/1.0.0": {
+      "type": "project",
+      "path": "../Queue/Queue.csproj",
+      "msbuildProject": "../Queue/Queue.csproj"
+    },
+    "Stack/1.0.0": {
+      "type": "project",
+      "path": "../Stack/Stack.csproj",
+      "msbuildProject": "../Stack/Stack.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "HashTable >= 1.0.0",
+      "Linkedlist >= 1.0.0",
+      "PriorityQueue >= 1.0.0",
+      "Queue >= 1.0.0",
+      "Stack >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\prantobhoumik\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\assignment\\DSA\\DsaAssignment\\DsaAssignment.csproj",
+      "projectName": "DsaAssignment",
+      "projectPath": "D:\\assignment\\DSA\\DsaAssignment\\DsaAssignment.csproj",
+      "packagesPath": "C:\\Users\\prantobhoumik\\.nuget\\packages\\",
+      "outputPath": "D:\\assignment\\DSA\\DsaAssignment\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\prantobhoumik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\assignment\\DSA\\HashTable\\HashTable.csproj": {
+              "projectPath": "D:\\assignment\\DSA\\HashTable\\HashTable.csproj"
+            },
+            "D:\\assignment\\DSA\\Linkedlist\\Linkedlist.csproj": {
+              "projectPath": "D:\\assignment\\DSA\\Linkedlist\\Linkedlist.csproj"
+            },
+            "D:\\assignment\\DSA\\PriorityQueue\\PriorityQueue.csproj": {
+              "projectPath": "D:\\assignment\\DSA\\PriorityQueue\\PriorityQueue.csproj"
+            },
+            "D:\\assignment\\DSA\\Queue\\Queue.csproj": {
+              "projectPath": "D:\\assignment\\DSA\\Queue\\Queue.csproj"
+            },
+            "D:\\assignment\\DSA\\Stack\\Stack.csproj": {
+              "projectPath": "D:\\assignment\\DSA\\Stack\\Stack.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

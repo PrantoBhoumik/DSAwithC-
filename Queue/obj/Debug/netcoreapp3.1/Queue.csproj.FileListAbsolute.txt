@@ -1,0 +1,10 @@
+D:\assignment\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+D:\assignment\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+D:\assignment\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+D:\assignment\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.AssemblyReference.cache
+D:\assignment\Queue\obj\Debug\netcoreapp3.1\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+D:\assignment\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+D:\assignment\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+D:\assignment\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+D:\assignment\Queue\obj\Debug\netcoreapp3.1\Queue.pdb

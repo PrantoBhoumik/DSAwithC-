@@ -1,0 +1,10 @@
+D:\assignment\Linkedlist\bin\Debug\netcoreapp3.1\Linkedlist.deps.json
+D:\assignment\Linkedlist\bin\Debug\netcoreapp3.1\Linkedlist.dll
+D:\assignment\Linkedlist\bin\Debug\netcoreapp3.1\Linkedlist.pdb
+D:\assignment\Linkedlist\obj\Debug\netcoreapp3.1\Linkedlist.csproj.AssemblyReference.cache
+D:\assignment\Linkedlist\obj\Debug\netcoreapp3.1\Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\Linkedlist\obj\Debug\netcoreapp3.1\Linkedlist.AssemblyInfoInputs.cache
+D:\assignment\Linkedlist\obj\Debug\netcoreapp3.1\Linkedlist.AssemblyInfo.cs
+D:\assignment\Linkedlist\obj\Debug\netcoreapp3.1\Linkedlist.csproj.CoreCompileInputs.cache
+D:\assignment\Linkedlist\obj\Debug\netcoreapp3.1\Linkedlist.dll
+D:\assignment\Linkedlist\obj\Debug\netcoreapp3.1\Linkedlist.pdb

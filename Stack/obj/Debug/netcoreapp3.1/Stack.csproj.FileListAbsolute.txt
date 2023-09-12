@@ -1,0 +1,10 @@
+D:\assignment\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+D:\assignment\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+D:\assignment\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+D:\assignment\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+D:\assignment\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+D:\assignment\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+D:\assignment\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+D:\assignment\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+D:\assignment\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
